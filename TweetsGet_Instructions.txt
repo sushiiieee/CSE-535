@@ -1,0 +1,12 @@
+just put your own keys (line 33 to 36) and put your querywords by translating in each language (from line 213 to 218)
+and change the language in line 223 to get tweets for that language
+Just keep running the program after changing the languages..al the tweets will be appended in a single file i.e. tweets.json
+
+now there will only be one file generated after getting all tweets i.e. tweets.json
+we just have to enclose these tweets in square bracket after removing coma (,) at the end of the file  
+- dont do this before collecting all the tweets, this is the last step when you don't want to collect more tweets
+
+Run the program by changing the language (in line 220) in each six languages ( we are not counting korean)
+Also chnage the count in line 179 to change the number of tweets
+
+note that keywords in line 213 to 218 should not have long sentences or it will take much greater time so you can break the sentence into multiple words and put them in keyword string arrays
