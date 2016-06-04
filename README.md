@@ -1,1 +1,1 @@
-# CSE-535-
+CSE 535 - Information Retrieval
