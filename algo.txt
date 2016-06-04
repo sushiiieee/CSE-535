@@ -1,0 +1,10 @@
+Try 
+
+1. NLTK
+
+2. analyze words in tweet with known interesting keywords, and if any other words crosses path_similarity above a threshold, 
+   include word to interesting list
+   
+3. look for accounts that keep sending multiple tweets of interesting topics, might be better to watch them over
+
+
