@@ -1,0 +1,28 @@
+	_id = '0'               #id of the tweet                           long
+    lang = 'en'             #language of the tweeet						string
+    created_at = ''         #UTC time when the tweet was posted			date
+    coordinates = [-1,-1]   #[longitude,latitude]						Array of Integers   multiVal
+    text = ''               #text of tweeet								String
+    retweet_status = False												boolean
+    quote_status = False												boolean
+    
+    place_id = ''           #place.id									long ??
+    place_type = ''         #place.place_type							String
+    place_full_name = ''    #place.place_full_name						String
+    place_country_code = '' #plce.country_code							String
+    place_country = ''      #place.country								String
+    
+    hashtags = []           #entities.hashtags[].text					String     multiVal
+    trends = []             #entities.trends[].text						String     ''
+    urls = []               #entities.urls[].url						String		''
+    expanded_urls = []      #entities.urls[].expanded_url				String		''
+    symbols = []            #entites.symbols[].text						String		''
+
+    favorite_count = 0				long																	
+    retweet_count = 0				long
+    favorited_status = False		boolean
+    user_id = 0						long
+    user_verified = False			boolean
+    user_followers_count = 0		long
+    user_screen_name = ''			string
+    user_name = ''					string
