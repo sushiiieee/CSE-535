@@ -1,0 +1,97 @@
+Installation steps followed to setup the Twitter Py instance.
+
+1. Install Solr
+	
+2. Install Pip for Python3
+	
+    http://stackoverflow.com/questions/11268501/how-to-use-pip-with-python-3-x-alongside-python-2-x
+    
+    sudo apt-get install python3-pip
+    Use it like "sudo python3 -m pip install <package name>"
+    Note : Use Python3 instead of Python2.x to circumvent the insecurePlatform SSL error in urllib in python2
+    
+3. Install Tweepy
+    https://github.com/tweepy/tweepy
+    sudo python3 -m pip install tweepy
+    
+4. Change streaming.py file lines 171 and surrounding to decode data to utf-8 string
+    path : /usr/local/lib/python3.4/dist-packages/tweepy/streaming.py
+
+5. Make a small listener
+    https://www.youtube.com/watch?v=pUUxmvvl2FE
+    
+6. Install NLTK ?
+    if yes, attribute as follows :
+    
+    NB. If you publish work that uses NLTK, please cite the NLTK book as follows:
+    Bird, Steven, Edward Loper and Ewan Klein (2009), Natural Language Processing with Python. O’Reilly Media Inc.
+    
+    a> Install WordNet
+        
+        Hardcopy
+        
+        George A. Miller (1995). WordNet: A Lexical Database for English.
+        Communications of the ACM Vol. 38, No. 11: 39-41.
+        
+        Christiane Fellbaum (1998, ed.) WordNet: An Electronic Lexical Database. Cambridge, MA: MIT Press.
+        
+        WordNet: An Electronic Lexical Database (citation above) is available from MIT Press.
+        Online
+        
+        Publications should cite this website when referring to the online version of WordNet. Below is a citation in MLA web citation style.
+        
+        Princeton University "About WordNet." WordNet. Princeton University. 2010. <http://wordnet.princeton.edu>
+        
+ 7. Add loggers
+ 
+ 8. Cron job
+        list all jobs
+            sudo crontab -l
+        
+        edit list 
+            sudo crontab -e
+            
+        view sys logs
+            vim /var/log/syslog
+Helpers
+---------------
+
+1. Finding where Python is installed :
+    http://stackoverflow.com/questions/6767283/find-where-python-is-installed-if-it-isnt-default-dir
+    
+        import sys
+        sys.executable
+    
+2. Finding modules installed in Python
+    http://stackoverflow.com/questions/739993/how-can-i-get-a-list-of-locally-installed-python-modules
+        
+        inside python -> help('modules <name>')
+    
+3. Globals in python
+    restate that a variable is a global inside the method/function
+    
+    eg:
+    count =34 
+    
+    def fun():
+    global count
+    print(count) // gives 35
+    
+4. Clear index in Solr
+    http://anudeep3998.koding.io:8983/solr/TwitterSiphon/update?stream.body=%3Cdelete%3E%3Cquery%3E*:*%3C/query%3E%3C/delete%3E&commit=true
+    
+5. Delete collections in Solr
+    curl "http://localhost:8983/solr/admin/collections?action=DELETE&name=collectionName"
+    
+6. Force terminate solr
+    lsof -i :<port>
+    kill -9 <PID>
+    
+7. Solr query
+    http://anudeep3998.koding.io:8983/solr/gettingstarted/query?q=%22de%22
+    
+8. Grep 
+
+    To count all occurrences, use -o. Try this:
+        cat eng2.txt | grep '"id"' | wc -l
+

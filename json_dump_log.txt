@@ -1,0 +1,66 @@
+trying to dump ::     "tweet
+failed to dump ::     "tweet
+trying to dump :: {"created_
+id : 644691284209352704
+lang : en
+u_lang : en
+created_at : Fri Sep 18 01:55:54 +0000 2015
+text : #Health: Cattle virus linked to breast cancer - http://t.co/9zSlB73ybO http://t.co/zstVtTiVvq
+failed to dump :: {"created_
+trying to dump :: {"created_
+id : 644691294187593728
+lang : en
+u_lang : en
+created_at : Fri Sep 18 01:55:56 +0000 2015
+failed to dump :: {"created_
+trying to dump :: {"created_
+test line : {"created_at":"Fri Sep 18 01:55:57 +0000 2015","id":644691297907908609,"id_str":"644691297907908609","text":"Deals &gt;&gt; http:\/\/t.co\/zNLcjwduKK #6334 LOT 5  Neosporin Lip Health Daily Hydration Therapy .35 oz sunscreen 09\/201\u2026 http:\/\/t.co\/aTyRNbxuMF","source":"\u003ca href=\"http:\/\/ifttt.com\" rel=\"nofollow\"\u003eIFTTT\u003c\/a\u003e","truncated":false,"in_reply_to_status_id":null,"in_reply_to_status_id_str":null,"in_reply_to_user_id":null,"in_reply_to_user_id_str":null,"in_reply_to_screen_name":null,"user":{"id":3035610461,"id_str":"3035610461","name":"DEALS","screen_name":"sed_qolana","location":"USA","url":null,"description":"DEALS","protected":false,"verified":false,"followers_count":85,"friends_count":3,"listed_count":27,"favourites_count":0,"statuses_count":167416,"created_at":"Fri Feb 13 22:54:28 +0000 2015","utc_offset":null,"time_zone":null,"geo_enabled":false,"lang":"en","contributors_enabled":false,"is_translator":false,"profile_background_color":"C0DEED","profile_background_image_url":"http:\/\/abs.twimg.com\/images\/themes\/theme1\/bg.png","profile_background_image_url_https":"https:\/\/abs.twimg.com\/images\/themes\/theme1\/bg.png","profile_background_tile":false,"profile_link_color":"0084B4","profile_sidebar_border_color":"C0DEED","profile_sidebar_fill_color":"DDEEF6","profile_text_color":"333333","profile_use_background_image":true,"profile_image_url":"http:\/\/pbs.twimg.com\/profile_images\/566370749183578114\/pd100XmW_normal.jpeg","profile_image_url_https":"https:\/\/pbs.twimg.com\/profile_images\/566370749183578114\/pd100XmW_normal.jpeg","default_profile":true,"default_profile_image":false,"following":null,"follow_request_sent":null,"notifications":null},"geo":null,"coordinates":null,"place":null,"contributors":null,"retweet_count":0,"favorite_count":0,"entities":{"hashtags":[],"trends":[],"urls":[{"url":"http:\/\/t.co\/zNLcjwduKK","expanded_url":"http:\/\/ift.tt\/1hnEfXJ","display_url":"ift.tt\/1hnEfXJ","indices":[15,37]}],"user_mentions":[],"symbols":[],"media":[{"id":644691297853403136,"id_str":"644691297853403136","indices":[121,143],"media_url":"http:\/\/pbs.twimg.com\/media\/CPJnUdZWcAAv8wB.jpg","media_url_https":"https:\/\/pbs.twimg.com\/media\/CPJnUdZWcAAv8wB.jpg","url":"http:\/\/t.co\/aTyRNbxuMF","display_url":"pic.twitter.com\/aTyRNbxuMF","expanded_url":"http:\/\/twitter.com\/sed_qolana\/status\/644691297907908609\/photo\/1","type":"photo","sizes":{"large":{"w":140,"h":46,"resize":"fit"},"thumb":{"w":140,"h":46,"resize":"crop"},"medium":{"w":140,"h":46,"resize":"fit"},"small":{"w":140,"h":46,"resize":"fit"}}}]},"extended_entities":{"media":[{"id":644691297853403136,"id_str":"644691297853403136","indices":[121,143],"media_url":"http:\/\/pbs.twimg.com\/media\/CPJnUdZWcAAv8wB.jpg","media_url_https":"https:\/\/pbs.twimg.com\/media\/CPJnUdZWcAAv8wB.jpg","url":"http:\/\/t.co\/aTyRNbxuMF","display_url":"pic.twitter.com\/aTyRNbxuMF","expanded_url":"http:\/\/twitter.com\/sed_qolana\/status\/644691297907908609\/photo\/1","type":"photo","sizes":{"large":{"w":140,"h":46,"resize":"fit"},"thumb":{"w":140,"h":46,"resize":"crop"},"medium":{"w":140,"h":46,"resize":"fit"},"small":{"w":140,"h":46,"resize":"fit"}}}]},"favorited":false,"retweeted":false,"possibly_sensitive":false,"filter_level":"low","lang":"en","timestamp_ms":"1442541357863"}
+
+id : 644691297907908609
+lang : en
+u_lang : en
+created_at : Fri Sep 18 01:55:57 +0000 2015
+failed to dump :: {"created_
+trying to dump :: {"created_
+id : 644691298251882496
+lang : en
+u_lang : en
+created_at : Fri Sep 18 01:55:57 +0000 2015
+text : The Republican debate was literally a public health risk http://t.co/tCdqCpPu62 via @motherjones
+failed to dump :: {"created_
+trying to dump :: {"created_
+id : 644691317587582976
+lang : en
+u_lang : en
+created_at : Fri Sep 18 01:56:02 +0000 2015
+text : HEALTH FACT: By the year 2020 77% of men and 53% of women will have dysglycemia (either diabetes or pre-diabetes) http://t.co/aTV2Ax6OEf
+failed to dump :: {"created_
+trying to dump :: {"created_
+id : 644691318975954944
+lang : en
+u_lang : en
+created_at : Fri Sep 18 01:56:02 +0000 2015
+text : HEALTH FACT: Behavioral drug use in men is up by as much as 188% in 10 years. http://t.co/ndYrZ6z7yr
+failed to dump :: {"created_
+trying to dump :: {"created_
+id : 644691318954946560
+lang : en
+u_lang : en
+created_at : Fri Sep 18 01:56:02 +0000 2015
+text : Social Worker: Lakeridge Health (Oshawa ON): "SW-ona lakeridge health social worker mental heal.. #nursing #jobs http://t.co/RclppwLp5v
+failed to dump :: {"created_
+trying to dump :: {"created_
+id : 644691321878376448
+lang : en
+u_lang : en
+created_at : Fri Sep 18 01:56:03 +0000 2015
+text : HEALTH FACT: Women account for 39% of smoking deaths. http://t.co/pEybPwzRFo
+failed to dump :: {"created_
+trying to dump :: {"created_
+id : 644691321781923840
+lang : en
+u_lang : en
+created_at : Fri Sep 18 01:56:03 +0000 2015
+text : Health Tools for Fitbit #fitbit #fitfam #fitspo #getfit #flex #crossfit #fitnessblogger https://t.co/3D1rEr6kKV http://t.co/xmh8o7ep8D
+failed to dump :: {"created_
+trying to dump :: {"created_
